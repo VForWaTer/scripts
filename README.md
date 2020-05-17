@@ -9,3 +9,7 @@ The purpose of this collection is to collect Notebooks that were used to setup o
 
 Each topic should go into it's own subfolder. Please also add a Readme there and stuff like `requirements.txt`. No tep-level definitions to keep the subfolders self-contained.
 
+## Contents
+
+* [Sap Flow upload script](https://github.com/VForWaTer/scripts/tree/master/sap_flow_upload)
+
