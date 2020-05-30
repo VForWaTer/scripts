@@ -7,7 +7,7 @@ The purpose of this collection is to collect Notebooks that were used to setup o
 
 ## Contributing
 
-Each topic should go into it's own subfolder. Please also add a Readme there and stuff like `requirements.txt`. No tep-level definitions to keep the subfolders self-contained.
+Each topic should go into it's own subfolder. Please also add a `README.md`, `requirements.txt` and stuff like that. No top-level definitions to keep the subfolders self-contained.
 
 ## Contents
 
