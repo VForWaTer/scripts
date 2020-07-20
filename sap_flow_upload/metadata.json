@@ -9,7 +9,7 @@
             ],
             "variable": 14,
             "external_id": "212",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "not yet converted"
@@ -32,7 +32,7 @@
             ],
             "variable": 14,
             "external_id": "214",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "not yet converted"
@@ -55,7 +55,7 @@
             ],
             "variable": 14,
             "external_id": "246",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "not yet converted"
@@ -78,7 +78,7 @@
             ],
             "variable": 14,
             "external_id": "269",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "nan"
@@ -96,12 +96,12 @@
             "title": "Sap Flow - Hohes Holz - Tree 050",
             "abstract": "Sap flow tree 050- 20mm- east",
             "location": [
-                52.086863128916136,
+                52.08686312891614,
                 11.221728864418242
             ],
             "variable": 14,
             "external_id": "275",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "nan"
@@ -119,12 +119,12 @@
             "title": "Sap Flow - Hohes Holz - Tree 056",
             "abstract": "Sap flow tree 056- 20mm- north",
             "location": [
-                52.08676914751112,
+                52.08676914751111,
                 11.221580115230608
             ],
             "variable": 14,
             "external_id": "282",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "nan"
@@ -147,7 +147,7 @@
             ],
             "variable": 14,
             "external_id": "292",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "nan"
@@ -170,7 +170,7 @@
             ],
             "variable": 14,
             "external_id": "306",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "nan"
@@ -188,12 +188,12 @@
             "title": "Sap Flow - Hohes Holz - Tree 106",
             "abstract": "Sap flow tree 106 - 20mm - east - commertial",
             "location": [
-                52.086568411238765,
+                52.08656841123877,
                 11.221354835361566
             ],
             "variable": 14,
             "external_id": "326",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "commertial sensor in 20mm depth"
@@ -211,12 +211,12 @@
             "title": "Sap Flow - Hohes Holz - Tree 108",
             "abstract": "Sap flow tree 108 - 20mm - east-north-east - commertial",
             "location": [
-                52.08652446950052,
-                11.221493876117812
+                52.08652446950051,
+                11.22149387611781
             ],
             "variable": 14,
             "external_id": "333",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "commertial sensor in 20mm depth"
@@ -239,7 +239,7 @@
             ],
             "variable": 14,
             "external_id": "347",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "commertial sensor in 20mm depth"
@@ -262,7 +262,7 @@
             ],
             "variable": 14,
             "external_id": "361",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "commertial sensor in 20mm depth"
@@ -285,7 +285,7 @@
             ],
             "variable": 14,
             "external_id": "373",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "commertial sensor in 20mm depth"
@@ -308,7 +308,7 @@
             ],
             "variable": 14,
             "external_id": "380",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "nan"
@@ -331,7 +331,7 @@
             ],
             "variable": 14,
             "external_id": "447",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "not yet converted"
@@ -354,7 +354,7 @@
             ],
             "variable": 14,
             "external_id": "448",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "not yet converted"
@@ -377,7 +377,7 @@
             ],
             "variable": 14,
             "external_id": "465",
-            "license": 2,
+            "license": 6,
             "author": 1,
             "embargo": true,
             "comment": "commertial sensor in 20mm depth"
