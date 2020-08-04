@@ -1,0 +1,1070 @@
+SiteID	SiteCode	SiteName	LatLongDatumID	Elevation_m	VerticalDatum	LocalX	LocalY	Latitude	Longitude	LocalProjectionID	PosAccuracy_m	State	County	Comments	
+50	1.1.45.30.2.1.2.CL.SA.z	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53691.99	98751.44	49.82254929	5.802532685	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+51	1.1.45.30.2.1.2.CL.SA.a	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53690.16	98746.41	49.82250474	5.802504666	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+52	1.1.45.30.2.1.2.CL.SA.b	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53695.6	98746.28	49.82250171	5.802580181	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+53	1.1.45.30.2.1.2.CL.SA.c	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53686.9	98756.53	49.82259674	5.802464635	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+54	1.1.45.30.2.1.2.CL.SA.d	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53685.48	98744.93	49.82249304	5.802438975	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+55	1.1.45.30.2.1.2.CL.SA.e	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53687.23	98754.19	49.8225756	5.802467974	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+56	1.1.45.30.2.1.2.CL.SA.f	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53690.23	98744.87	49.82249087	5.802504836	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+57	1.1.45.30.2.1.2.CL.SA.g	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53689.24	98756.2	49.822593	5.802496973	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g, aus M. P.	
+58	1.1.45.30.2.1.2.CL.SA.h	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53694.19	98747.63	49.82251431	5.802561255	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+59	1.1.45.30.2.1.2.CL.SA.i	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53693.84	98752.21	49.82255554	5.80255874	227	NULL	NULL	Grand Duchy of Luxembourg	A,B,C,I,J,H, aus M. P.	
+60	1.1.45.30.2.1.2.CL.SA.l	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53691.34	98749.03	49.82252781	5.802522446	227	NULL	NULL	Grand Duchy of Luxembourg	L,M,K	
+61	1.1.45.30.2.1.2.CL.SA.o	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53686.99	98751.44	49.82255097	5.802463257	227	NULL	NULL	Grand Duchy of Luxembourg	O,P,Q,R	
+62	1.1.45.30.2.1.2.CL.SA.s	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53688.39	98757.68	49.82260651	5.802485935	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+63	1.1.45.30.2.1.2.CL.SA.t	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53687.57	98748.89	49.82252787	5.802470032	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+64	1.1.45.30.2.1.2.CL.SA.u	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53696.05	98752.53	49.82255768	5.802589582	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+65	1.1.45.30.2.1.2.CL.SA.v	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53699.7	98746.99	49.82250671	5.8026374	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+66	1.1.45.30.2.1.2.CL.SA.w	schist - cluster: S_A - forest - valley bottom	3	470	MSL	53691.99	98742.74	49.82254929	5.802532685	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+67	1.1.45.30.2.1.2.CL.SB.z	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53667.03	98776.51	49.82282	5.80219	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+68	1.1.45.30.2.1.2.CL.SB.a	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53667.03	98778.71	49.82279342	5.802185263	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+69	1.1.45.30.2.1.2.CL.SB.b	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53667.34	98773.02	49.82274223	5.802186546	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+70	1.1.45.30.2.1.2.CL.SB.c	schist - cluster: S_B - forest - midslope - S	3	473	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+71	1.1.45.30.2.1.2.CL.SB.d	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53663.93	98771.14	49.82272646	5.802138287	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+72	1.1.45.30.2.1.2.CL.SB.e	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53661.8	98781.74	49.82282242	5.802114179	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+73	1.1.45.30.2.1.2.CL.SB.f	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53661.81	98777.43	49.82278368	5.802112122	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+74	1.1.45.30.2.1.2.CL.SB.g	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53660.64	98774.18	49.82275491	5.802094184	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g, aus M. P.	
+75	1.1.45.30.2.1.2.CL.SB.h	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53666.46	98774.38	49.82275475	5.802175111	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+76	1.1.45.30.2.1.2.CL.SB.i	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53664.43	98775.01	49.82276105	5.802147266	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,l,m,n,	
+77	1.1.45.30.2.1.2.CL.SB.l	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53664.35	98778.06	49.82278848	5.802147647	227	NULL	NULL	Grand Duchy of Luxembourg	i,j,k	
+78	1.1.45.30.2.1.2.CL.SB.o	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53670.02	98777.31	49.82277985	5.802226116	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o, ?	
+79	1.1.45.30.2.1.2.CL.SB.s	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53661.35	98777.01	49.82278003	5.802105531	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+80	1.1.45.30.2.1.2.CL.SB.t	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53669.79	98777	49.82277709	5.802222663	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+81	1.1.45.30.2.1.2.CL.SB.u	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53663.74	98775.31	49.82276401	5.80213783	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+82	1.1.45.30.2.1.2.CL.SB.v	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53665.48	98773.83	49.82275006	5.802161204	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+83	1.1.45.30.2.1.2.CL.SB.w	schist - cluster: S_B - forest - midslope - S	3	473	MSL	53664.09	98778.21	49.82278992	5.802144117	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+84	1.1.45.30.2.1.2.CL.SC.z	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53664.71	98721.57	49.82232	5.80245	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+85	1.1.45.30.2.1.2.CL.SC.a	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53659.3	98724.7	49.82230238	5.802373622	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+86	1.1.45.30.2.1.2.CL.SC.b	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53659.5	98717.2	49.82223497	5.802372556	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+87	1.1.45.30.2.1.2.CL.SC.c	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53657.32	98720.27	49.82226327	5.802343921	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+88	1.1.45.30.2.1.2.CL.SC.d	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53666.61	98721.57	49.82227184	5.80247354	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+89	1.1.45.30.2.1.2.CL.SC.e	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53659.36	98719.08	49.82225188	5.802371613	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+90	1.1.45.30.2.1.2.CL.SC.f	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53660.5	98718.03	49.82224214	5.802386818	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+91	1.1.45.30.2.1.2.CL.SC.g	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53660.99	98723.72	49.82229305	5.802396565	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+92	1.1.45.30.2.1.2.CL.SC.h	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53667.81	98716.2	49.8222232	5.802487414	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+93	1.1.45.30.2.1.2.CL.SC.i	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53667.51	98721.57	49.82227154	5.802486037	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+94	1.1.45.30.2.1.2.CL.SC.l	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53665.38	98724.08	49.82229482	5.802457806	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+95	1.1.45.30.2.1.2.CL.SC.o	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53664.11	98728.44	49.82233443	5.802442377	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+96	1.1.45.30.2.1.2.CL.SC.s	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53660.21	98718.97	49.82225064	5.802383276	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+97	1.1.45.30.2.1.2.CL.SC.t	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53658.66	98721.57	49.82227452	5.80236315	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+98	1.1.45.30.2.1.2.CL.SC.u	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53661.81	98722.35	49.82228043	5.802407323	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+99	1.1.45.30.2.1.2.CL.SC.v	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53665.71	98719.84	49.82225658	5.802460143	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+100	1.1.45.30.2.1.2.CL.SC.w	schist - cluster: S_C - forest - midslope - N	3	473	MSL	53664.71	98719.27	49.82227248	5.802447157	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+101	1.1.45.30.2.1.CL.SD.z	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53778.49	99093.06	49.82568	5.80371	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+102	1.1.45.30.2.1.CL.SD.a	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53781.19	99093.06	49.82562342	5.803749204	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+103	1.1.45.30.2.1.CL.SD.b	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53776.09	99093.06	49.82562514	5.803678382	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+104	1.1.45.30.2.1.CL.SD.c	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53778.49	99083.36	49.82562433	5.80371171	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+105	1.1.45.30.2.1.CL.SD.d	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53782.39	99095.31	49.82564323	5.803766997	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+106	1.1.45.30.2.1.CL.SD.e	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53778.49	99086.86	49.82562433	5.80371171	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+107	1.1.45.30.2.1.CL.SD.f	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53772.43	99096.56	49.82565781	5.803629346	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+108	1.1.45.30.2.1.CL.SD.h	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53782.04	99099.21	49.82567837	5.803764202	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+109	1.1.45.30.2.1.CL.SD.i	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53776.15	99091.71	49.82561299	5.803678538	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+110	1.1.45.30.2.1.CL.SD.l	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53779.96	99092.03	49.82561456	5.803731649	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+111	1.1.45.30.2.1.CL.SD.o	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53782.29	99086.48	49.82556392	5.803761059	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+112	1.1.45.30.2.1.CL.SD.s	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53774.74	99086.56	49.82556724	5.80365626	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+113	1.1.45.30.2.1.CL.SD.t	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53770.96	99088.71	49.82558779	5.803604823	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+114	1.1.45.30.2.1.CL.SD.u	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53774.94	99095.11	49.82564394	5.803663468	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+115	1.1.45.30.2.1.CL.SD.v	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53781.56	99094.84	49.82563924	5.803755325	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+116	1.1.45.30.2.1.CL.SD.w	schist - cluster: S_D - forest - upslope - N	3	459	MSL	53783.14	99085.01	49.82555041	5.803772097	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+117	1.1.45.30.2.1.CL.SE.z	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53778.38	99114.08	49.82587	5.8037	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+118	1.1.45.30.2.1.CL.SE.a	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53782.69	99109.77	49.82577312	5.803766392	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+119	1.1.45.30.2.1.CL.SE.b	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53774.14	99116.53	49.82583676	5.803651081	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+120	1.1.45.30.2.1.CL.SE.c	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53768.72	99116.67	49.82583983	5.803575946	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+121	1.1.45.30.2.1.CL.SE.d	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53776.13	99105.68	49.82573859	5.8036731	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+122	1.1.45.30.2.1.CL.SE.e	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53776.75	99107.99	49.8257592	5.803682931	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+123	1.1.45.30.2.1.CL.SE.f	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53780.62	99120.23	49.82586786	5.803743043	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+124	1.1.45.30.2.1.CL.SE.g	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53781.88	99120.14	49.8258666	5.803760489	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+125	1.1.45.30.2.1.CL.SE.h	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53772.32	99117.58	49.82584681	5.803626371	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+126	1.1.45.30.2.1.CL.SE.i	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53778.38	99122.08	49.82588519	5.803712893	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,n,m,l	
+127	1.1.45.30.2.1.CL.SE.l	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53781.24	99115.73	49.82582718	5.803749279	227	NULL	NULL	Grand Duchy of Luxembourg	i,j,k	
+128	1.1.45.30.2.1.CL.SE.o	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53776.45	99113.56	49.82580932	5.80368164	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+129	1.1.45.30.2.1.CL.SE.s	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53782.8	99111.53	49.82578892	5.803768744	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+130	1.1.45.30.2.1.CL.SE.t	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53775.58	99114.08	49.82581426	5.803669853	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+131	1.1.45.30.2.1.CL.SE.u	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53773.01	99119.45	49.82586341	5.803636901	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+132	1.1.45.30.2.1.CL.SE.v	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53782.93	99121.96	49.82588258	5.803776015	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+133	1.1.45.30.2.1.CL.SE.w	schist - cluster: S_E - forest - midslope - N	3	470	MSL	53782.93	99121.96	49.82588258	5.803776015	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+134	1.1.45.30.2.1.CL.SF.z	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53764.27	99182.74	49.82648	5.80351	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+135	1.1.45.30.2.1.CL.SF.a	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53767.57	99188.46	49.82648017	5.803556793	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+136	1.1.45.30.2.1.CL.SF.b	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53757.41	99184.58	49.82644875	5.803413715	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+137	1.1.45.30.2.1.CL.SF.c	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53758.68	99189.4	49.82649169	5.803433801	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+138	1.1.45.30.2.1.CL.SF.d	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53762	99178.8	49.8263953	5.803474356	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+139	1.1.45.30.2.1.CL.SF.e	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53764.82	99183.69	49.8264383	5.803516129	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+140	1.1.45.30.2.1.CL.SF.f	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53764.27	99175.74	49.82642993	5.803507996	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+141	1.1.45.30.2.1.CL.SF.g	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53759.07	99177.54	49.82638499	5.803433123	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+142	1.1.45.30.2.1.CL.SF.x	schist - cluster: S_F - forest - downslope - S	3	469	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD x	
+143	1.1.45.30.2.1.CL.SF.i	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53764.27	99178.14	49.82642993	5.803507996	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+144	1.1.45.30.2.1.CL.SF.l	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53767.57	99182.74	49.82642882	5.803553823	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+145	1.1.45.30.2.1.CL.SF.o	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53763.4	99184.26	49.82644384	5.803496633	227	NULL	NULL	Grand Duchy of Luxembourg	q,p	
+146	1.1.45.30.2.1.CL.SF.s	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53760.89	99183.65	49.82643921	5.803461519	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+147	1.1.45.30.2.1.CL.SF.t	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53769.57	99182.74	49.82642814	5.803581596	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+148	1.1.45.30.2.1.CL.SF.u	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53764.27	99178.24	49.82642993	5.803507996	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+149	1.1.45.30.2.1.CL.SF.v	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53758.21	99179.24	49.82640053	5.803421994	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+150	1.1.45.30.2.1.CL.SF.w	schist - cluster: S_F - forest - downslope - S	3	469	MSL	53761.17	99188.11	49.82647921	5.803467737	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+151	1.1.45.30.2.1.CL.SG.z	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53789.05	99200.7	49.82664	5.80385	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+152	1.1.45.30.2.1.CL.SG.a	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53784.37	99203.4	49.82661836	5.803787613	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+153	1.1.45.30.2.1.CL.SG.b	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53784.38	99203.97	49.82662347	5.803788012	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+154	1.1.45.30.2.1.CL.SG.c	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53786.44	99200	49.82658713	5.803814573	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+155	1.1.45.30.2.1.CL.SG.d	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53791.8	99195.94	49.82654881	5.803886866	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+156	1.1.45.30.2.1.CL.SG.e	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53789.84	99202.86	49.82661168	5.8038632	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+157	1.1.45.30.2.1.CL.SG.f	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53790.11	99202.97	49.82661252	5.803867002	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+158	1.1.45.30.2.1.CL.SG.g	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53783.77	99197.65	49.8265461	5.803806052	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+159	1.1.45.30.2.1.CL.SG.h	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53794.77	99197.4	49.82656095	5.803928811	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+160	1.1.45.30.2.1.CL.SG.i	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53786.63	99202.1	49.82660592	5.803818206	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+161	1.1.45.30.2.1.CL.SG.i	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	l,m,n	
+162	1.1.45.30.2.1.CL.SG.o	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53797.25	99200.7	49.82658976	5.803965024	227	NULL	NULL	Grand Duchy of Luxembourg	q,p	
+163	1.1.45.30.2.1.CL.SG.s	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53790.4	99203.04	49.82661308	5.803871115	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+164	1.1.45.30.2.1.CL.SG.t	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53795.45	99200.7	49.82659037	5.803940028	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+165	1.1.45.30.2.1.CL.SG.u	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53796.1	99198.81	49.82657317	5.80394809	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+166	1.1.45.30.2.1.CL.SG.v	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53785.7	99194.9	49.82654153	5.803801616	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+167	1.1.45.30.2.1.CL.SG.w	"schist - cluster: S_G - forest - midslope - S
+"	3	469	MSL	53787.15	99203.99	49.82662273	5.803826478	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+168	1.1.45.30.2.1.CL.SH.z	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53791.16	99250.66	49.8271	5.80388	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+169	1.1.45.30.2.1.CL.SH.a	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53791.72	99246.4	49.82700321	5.803882715	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+170	1.1.45.30.2.1.CL.SH.b	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53791.16	99254.76	49.82707853	5.803879267	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+171	1.1.45.30.2.1.CL.SH.c	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53795.21	99257.67	49.82710335	5.803937024	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+172	1.1.45.30.2.1.CL.SH.d	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53797.91	99254.56	49.82707446	5.80397297	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+173	1.1.45.30.2.1.CL.SH.e	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53792.56	99255.88	49.82708809	5.803899256	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+174	1.1.45.30.2.1.CL.SH.f	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53787.96	99245.12	49.82699299	5.803829818	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+175	1.1.45.30.2.1.CL.SH.g	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53795.06	99243.91	49.8269797	5.803927785	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+176	1.1.45.30.2.1.CL.SH.i	schist - cluster: S_H - forest - upslope - S	3	459	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+177	1.1.45.30.2.1.CL.SH.l	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53788.86	99252.59	49.8270598	5.803846225	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+178	1.1.45.30.2.1.CL.SH.o	schist - cluster: S_H - forest - upslope - S	3	459	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+179	1.1.45.30.2.1.CL.SH.s	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53792.63	99251.51	49.82704884	5.803898023	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+180	1.1.45.30.2.1.CL.SH.t	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53795.51	99243.13	49.82697255	5.803933629	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+181	1.1.45.30.2.1.CL.SH.u	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53795.84	99247.96	49.82701587	5.803940676	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+182	1.1.45.30.2.1.CL.SH.v	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53789.21	99254.04	49.8270727	5.803851812	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+183	1.1.45.30.2.1.CL.SH.w	schist - cluster: S_H - forest - upslope - S	3	459	MSL	53788.2	99254.18	49.82707435	5.803837907	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+184	1.1.45.30.2.1.2.CL.SI.z	"schist - cluster: S_I - grassland - plateau rim
+"	3	469	MSL	53646.9	98868.44	49.82365	5.8019	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+185	1.1.45.30.2.1.2.CL.SI.i	"schist - cluster: S_I - grassland - plateau rim
+"	3	469	MSL	53646.9	98865.34	49.82359924	5.801898114	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+186	1.1.45.30.2.1.2.CL.SI.l	"schist - cluster: S_I - grassland - plateau rim
+"	3	469	MSL	53649.8	98868.44	49.82359826	5.801938383	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+187	1.1.45.30.2.1.2.CL.SI.o	"schist - cluster: S_I - grassland - plateau rim
+"	3	469	MSL	53653.2	98866.15	49.82357653	5.80198435	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	r?
+188	1.1.45.30.2.1.2.CL.SI.s	"schist - cluster: S_I - grassland - plateau rim
+"	3	469	MSL	53653.4	98868.44	49.82359705	5.801988373	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+189	1.1.45.30.2.1.CL.SJ.z	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL	54014.88	98718.78	49.82232	5.80702	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+190	1.1.45.30.2.1.CL.SJ.e	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL	54010.38	98718.78	49.82227083	5.806959261	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+191	1.1.45.30.2.1.CL.SJ.f	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL	54013.72	98719.09	49.82227249	5.807005813	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+192	1.1.45.30.2.1.CL.SJ.g	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL	54020.1	98717.86	49.82225928	5.807093743	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+193	1.1.45.30.2.1.CL.SJ.h	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+194	1.1.45.30.2.1.CL.SJ.x	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD x	
+195	1.1.45.30.2.1.CL.SJ.i	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+196	1.1.45.30.2.1.CL.SJ.l	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+197	1.1.45.30.2.1.CL.SJ.o	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+198	1.1.45.30.2.1.CL.SJ.s	"schist - cluster: S_J - grassland - flood plain
+"	3	459	MSL	54014.88	98722.18	49.82229986	5.807023515	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+199	1.16.45.30.2.3.CL.SK.z	"schist - cluster: S_K - grassland - midslope - S
+"	3	427	MSL	53783.46	98216.14	49.8178	5.80384	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+200	1.16.45.30.2.3.CL.SK.e	"schist - cluster: S_K - grassland - midslope - S
+"	3	427	MSL	53784.76	98213.89	49.81771994	5.803856634	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+201	1.16.45.30.2.3.CL.SK.f	"schist - cluster: S_K - grassland - midslope - S
+"	3	427	MSL	53783.46	98209.69	49.8177406	5.803839754	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+202	1.16.45.30.2.3.CL.SK.h	"schist - cluster: S_K - grassland - midslope - S
+"	3	427	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+203	1.16.45.30.2.3.CL.SK.i	"schist - cluster: S_K - grassland - midslope - S
+"	3	427	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+204	1.16.45.30.2.3.CL.SK.l	"schist - cluster: S_K - grassland - midslope - S
+"	3	427	MSL	53783.46	98213.54	49.8177406	5.803839754	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+205	1.16.45.30.2.3.CL.SK.o	"schist - cluster: S_K - grassland - midslope - S
+"	3	427	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+206	1.16.45.30.2.3.CL.SK.s	"schist - cluster: S_K - grassland - midslope - S
+"	3	427	MSL	53779.86	98216.14	49.81774182	5.803789771	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+207	1.16.45.30.2.3.CL.SL.z	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL	53700.95	98134.56	49.81705	5.8027	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+208	1.16.45.30.2.3.CL.SL.e	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+209	1.16.45.30.2.3.CL.SL.f	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+210	1.16.45.30.2.3.CL.SL.g	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+211	1.16.45.30.2.3.CL.SL.h	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL	53706.15	98131.56	49.81697493	5.802769341	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+212	1.16.45.30.2.3.CL.SL.i	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL	53700.95	98131.56	49.81697493	5.802769341	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+213	1.16.45.30.2.3.CL.SL.l	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+214	1.16.45.30.2.3.CL.SL.o	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+215	1.16.45.30.2.3.CL.SL.s	"schist - cluster: S_L - grassland - downslope - S
+"	3	419	MSL	53700.95	98130.31	49.81700363	5.802698755	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+216	1.16.45.30.2.2.1.CL.SM.z	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55952.54	98816.01	49.82327	5.83394	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+217	1.16.45.30.2.2.1.CL.SM.a	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55955.62	98813.1	49.82324889	5.83398696	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+218	1.16.45.30.2.2.1.CL.SM.b	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55950.7	98816.75	49.82328336	5.833920518	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+219	1.16.45.30.2.2.1.CL.SM.c	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55958.62	98802.71	49.82315454	5.834023093	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+220	1.16.45.30.2.2.1.CL.SM.d	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55946.36	98820.64	49.82331979	5.833862322	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+221	1.16.45.30.2.2.1.CL.SM.e	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55955.98	98814.13	49.82325798	5.833992494	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+222	1.16.45.30.2.2.1.CL.SM.f	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55954.67	98805.37	49.82317974	5.833969625	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+223	1.16.45.30.2.2.1.CL.SM.g	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55949.55	98813.51	49.82325466	5.833902918	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+224	1.16.45.30.2.2.1.CL.SM.h	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55949.6	98812.43	49.82324493	5.833902987	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+225	1.16.45.30.2.2.1.CL.SM.i	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55954.77	98812.25	49.82324156	5.833974732	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+226	1.16.45.30.2.2.1.CL.SM.l	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55954.87	98808.89	49.82321133	5.833974267	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+227	1.16.45.30.2.2.1.CL.SM.o	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55946.62	98806.59	49.82319346	5.833858567	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+228	1.16.45.30.2.2.1.CL.SM.s	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55949.97	98815.43	49.82327171	5.83390977	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+229	1.16.45.30.2.2.1.CL.SM.t	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55955.19	98812.24	49.8232413	5.833980535	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+230	1.16.45.30.2.2.1.CL.SM.u	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55959.56	98811.88	49.82323657	5.834041027	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+231	1.16.45.30.2.2.1.CL.SM.v	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55958	98806.15	49.82318561	5.834016314	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+232	1.16.45.30.2.2.1.CL.SM.w	"schist - cluster: S_M - forest - midslope - S
+"	3	459	MSL	55948.97	98805.78	49.82318536	5.833890822	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+233	1.16.45.30.2.2.1.CL.SN.z	"schist - cluster: S_N - forest - valley bottom
+"	3	455	MSL	55956.46	98760.81	49.82272587	5.833996551	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+234	1.16.45.30.2.2.1.CL.SN.e	"schist - cluster: S_N - forest - valley bottom
+"	3	455	MSL	55951.7	98765.09	49.82276597	5.83393276	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	reihenfolge unklar
+235	1.16.45.30.2.2.1.CL.SN.f	"schist - cluster: S_N - forest - valley bottom
+"	3	455	MSL	55958.27173	98767.57148	49.822786	5.834025259	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+236	1.16.45.30.2.2.1.CL.SN.g	"schist - cluster: S_N - forest - valley bottom
+"	3	455	MSL	55958.84779	98755.68936	49.82267906	5.834027017	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+237	1.16.45.30.2.2.1.CL.SN.s	"schist - cluster: S_N - forest - valley bottom
+"	3	455	MSL	55955.76	98763.11	49.82274673	5.833988014	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+238	1.16.45.30.2.2.1.CL.SN.t	"schist - cluster: S_N - forest - valley bottom
+"	3	455	MSL	55958.64	98763.92	49.82275309	5.834028451	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+239	1.16.45.30.2.2.1.CL.SN.u	"schist - cluster: S_N - forest - valley bottom
+"	3	455	MSL	55957.68	98756.27	49.82268468	5.834011058	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+240	1.16.45.30.2.2.1.CL.SO.z	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55977.64	98746.89	49.82265	5.83429	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+241	1.16.45.30.2.2.1.CL.SO.a	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55975.62	98743.79	49.8225744	5.83426559	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+242	1.16.45.30.2.2.1.CL.SO.b	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55979.85	98755.77	49.82268059	5.8343306	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+243	1.16.45.30.2.2.1.CL.SO.c	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55980.29	98746.94	49.82260111	5.834332016	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+244	1.16.45.30.2.2.1.CL.SO.d	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55980.24	98739.75	49.82253655	5.834327543	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+245	1.16.45.30.2.2.1.CL.SO.e	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55972.88	98751.17	49.82264168	5.83423141	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	reihenfolge unklar
+246	1.16.45.30.2.2.1.CL.SO.f	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55979.45	98753.65	49.82266172	5.834323909	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+247	1.16.45.30.2.2.1.CL.SO.g	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55980.03	98741.77	49.82255478	5.834325667	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+248	1.16.45.30.2.2.1.CL.SO.i	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55976.59	98745.07135	49.82258561	5.834279666	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+249	1.16.45.30.2.2.1.CL.SO.l	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55977.96993	98745.01887	49.82258467	5.834298799	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+250	1.16.45.30.2.2.1.CL.SO.o	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55971.54766	98750.12935	49.82263277	5.834212308	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+251	1.16.45.30.2.2.1.CL.SO.s	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55975.22	98745.2	49.82258722	5.834260758	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+252	1.16.45.30.2.2.1.CL.SO.t	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55971.27	98751.03	49.82264095	5.834208871	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+253	1.16.45.30.2.2.1.CL.SO.u	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55978.22	98748.91	49.82261953	5.834304299	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+254	1.16.45.30.2.2.1.CL.SO.v	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55984.98	98748.45	49.8226131	5.834397884	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+255	1.16.45.30.2.2.1.CL.SO.w	schist - cluster: S_O - Forest - midslope - N	3	458	MSL	55982.17	98740.17	49.82253972	5.834354567	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+256	1.16.45.30.2.2.1.CL.SP.z	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+257	1.16.45.30.2.2.1.CL.SP.a	schist - cluster: S_P - Grassland - plateau rim	4		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+258	1.16.45.30.2.2.1.CL.SP.b	schist - cluster: S_P - Grassland - plateau rim	5		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+259	1.16.45.30.2.2.1.CL.SP.c	schist - cluster: S_P - Grassland - plateau rim	6		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+260	1.16.45.30.2.2.1.CL.SP.d	schist - cluster: S_P - Grassland - plateau rim	7		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+261	1.16.45.30.2.2.1.CL.SP.e	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+262	1.16.45.30.2.2.1.CL.SP.f	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+263	1.16.45.30.2.2.1.CL.SP.g	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+264	1.16.45.30.2.2.1.CL.SP.i	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+265	1.16.45.30.2.2.1.CL.SP.l	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+266	1.16.45.30.2.2.1.CL.SP.o	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+267	1.16.45.30.2.2.1.CL.SP.s	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+268	1.16.45.30.2.2.1.CL.SP.t	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+269	1.16.45.30.2.2.1.CL.SP.u	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+270	1.16.45.30.2.2.1.CL.SP.v	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+271	1.16.45.30.2.2.1.CL.SP.w	schist - cluster: S_P - Grassland - plateau rim	3		MSL					227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+272	1.16.45.30.2.4.1.CL.SQ.z	schist - cluster: S_Q - Grassland - midslope - S	3	429	MSL	53737.04	97236.31	49.80898	5.80326	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+273	1.16.45.30.2.4.1.CL.SQ.e	schist - cluster: S_Q - Grassland - midslope - S	3	429	MSL	53738.96	97234.7	49.80891436	5.803286583	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+274	1.16.45.30.2.4.1.CL.SQ.f	schist - cluster: S_Q - Grassland - midslope - S	3	429	MSL	53732.61	97237.09	49.80893795	5.803199719	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+275	1.16.45.30.2.4.1.CL.SQ.g	schist - cluster: S_Q - Grassland - midslope - S	3	429	MSL	53739.22	97239.42	49.80895667	5.803292705	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+276	1.16.45.30.2.4.1.CL.SQ.i	schist - cluster: S_Q - Grassland - midslope - S	3	429	MSL	53736.64929	97238.52582	49.80894948	5.803256559	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+277	1.16.45.30.2.4.1.CL.SQ.l	schist - cluster: S_Q - Grassland - midslope - S	3	429	MSL	53738.84213	97237.57187	49.80894017	5.803286504	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+278	1.16.45.30.2.4.1.CL.SQ.o	schist - cluster: S_Q - Grassland - midslope - S	3	429	MSL	53732.41783	97238.46535	49.80895036	5.803197787	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+279	1.16.45.30.2.4.1.CL.SQ.s	schist - cluster: S_Q - Grassland - midslope - S	3	429	MSL	53737.79	97238.38	49.80894776	5.803272351	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+280	1.16.45.30.2.4.1.CL.SR.z	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53730.82	97207.55	49.80873	5.80318	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+281	1.16.45.30.2.4.1.CL.SR.e	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53733.16923	97206.69495	49.80866213	5.803208533	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+282	1.16.45.30.2.4.1.CL.SR.f	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53727.62505	97208.71287	49.80868213	5.803132618	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+283	1.16.45.30.2.4.1.CL.SR.g	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53733.81082	97208.94464	49.80868212	5.803218608	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+284	1.16.45.30.2.4.1.CL.SR.h	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53733.73607	97213.80352	49.8087258	5.803220093	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+285	1.16.45.30.2.4.1.CL.SR.i	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53732.22954	97207.03697	49.80866552	5.803195666	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+286	1.16.45.30.2.4.1.CL.SR.l	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53732.15388	97211.2148	49.80870308	5.803196785	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+287	1.16.45.30.2.4.1.CL.SR.o	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53732.52	97207.55	49.80867003	5.803199965	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+288	1.16.45.30.2.4.1.CL.SR.s	schist - cluster: S_R - grassland - downslope - S	3	430	MSL	53733.33126	97207.9928	49.80867373	5.803211456	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+289	1.16.45.30.2.4.CL.SS.z	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54066.17	97209.39	49.80875	5.80784	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+290	1.16.45.30.2.4.CL.SS.a	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54072.925	97213.29	49.80873409	5.807930839	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+291	1.16.45.30.2.4.CL.SS.b	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54064.99003	97212.63194	49.80873086	5.807820346	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+292	1.16.45.30.2.4.CL.SS.c	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54055.68662	97216.19799	49.80876603	5.807693054	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+293	1.16.45.30.2.4.CL.SS.d	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54063.34433	97210.04236	49.80870815	5.807796155	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+294	1.16.45.30.2.4.CL.SS.e	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54071.99745	97212.48851	49.8087272	5.807917547	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+295	1.16.45.30.2.4.CL.SS.f	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54072.72359	97207.99699	49.80868661	5.80792529	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+296	1.16.45.30.2.4.CL.SS.g	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54062.60202	97202.6796	49.80864226	5.807782021	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+297	1.16.45.30.2.4.CL.SS.i	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54067.95542	97210.03984	49.80870657	5.807860163	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+298	1.16.45.30.2.4.CL.SS.l	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54065.45176	97211.36335	49.80871931	5.807826096	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l,r, a,b,c	
+299	1.16.45.30.2.4.CL.SS.o	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54063.25928	97203.91572	49.80865314	5.807791788	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+300	1.16.45.30.2.4.CL.SS.s	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54070.63646	97209.93841	49.80870475	5.807897327	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+301	1.16.45.30.2.4.CL.SS.t	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54069.21285	97202.86458	49.80864169	5.807873886	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+302	1.16.45.30.2.4.CL.SS.u	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54061.99819	97202.44694	49.80864037	5.807773518	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+303	1.16.45.30.2.4.CL.SS.v	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54061.88636	97209.01523	49.80869942	5.807775381	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+304	1.16.45.30.2.4.CL.SS.w	"schist - cluster: S_S - Forest - upslope - S
+"	3	430	MSL	54063.03747	97215.53795	49.80875762	5.807794753	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+305	1.16.45.30.2.4.CL.ST.z	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54062.1	97160.52	49.80831	5.80779	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+306	1.16.45.30.2.4.CL.ST.a	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54067.45625	97162.46951	49.80827752	5.80785716	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+307	1.16.45.30.2.4.CL.ST.b	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54066.94974	97157.72	49.80823503	5.807847659	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+308	1.16.45.30.2.4.CL.ST.c	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54056.73275	97149.00989	49.80816023	5.807701302	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+309	1.16.45.30.2.4.CL.ST.d	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54056.72055	97160.04936	49.80825941	5.807706874	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+310	1.16.45.30.2.4.CL.ST.e	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54065.89667	97162.53873	49.80827867	5.807835547	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+311	1.16.45.30.2.4.CL.ST.f	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54065.64605	97157.74952	49.80823573	5.807829577	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+312	1.16.45.30.2.4.CL.ST.g	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54057.05673	97164.46023	49.80829892	5.807713834	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+313	1.16.45.30.2.4.CL.ST.h	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54057.41934	97156.15521	49.80822419	5.807714549	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+314	1.16.45.30.2.4.CL.ST.i	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54063.73	97162.15	49.80827588	5.807805216	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+315	1.16.45.30.2.4.CL.ST.l	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54064.59049	97160.30211	49.80825902	5.807816252	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+316	1.16.45.30.2.4.CL.ST.o	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54061.38804	97164.55771	49.80829833	5.80777401	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+317	1.16.45.30.2.4.CL.ST.s	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54056.03827	97164.76447	49.808302	5.807699855	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+318	1.16.45.30.2.4.CL.ST.t	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54067.71909	97164.16908	49.8082927	5.807861693	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+319	1.16.45.30.2.4.CL.ST.u	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54064.78468	97158.97	49.80824699	5.807818255	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+320	1.16.45.30.2.4.CL.ST.v	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54059.79959	97156.19356	49.80822373	5.80774761	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+321	1.16.45.30.2.4.CL.ST.w	"schist - cluster: S_T - forest - midslope - S
+"	3	429	MSL	54060.2459	97166.22634	49.80831371	5.807759023	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+322	1.16.45.30.2.4.CL.SU.z	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54081.32	97141.7	49.80814	5.80805	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+323	1.16.45.30.2.4.CL.SU.a	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54089.65856	97142.13701	49.80809447	5.808166041	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+324	1.16.45.30.2.4.CL.SU.b	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54084.93782	97143.01678	49.80810397	5.808100967	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+325	1.16.45.30.2.4.CL.SU.c	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54073.74892	97142.36238	49.80810187	5.807945309	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+326	1.16.45.30.2.4.CL.SU.d	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54081.32	97159.6	49.80825417	5.808059372	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+327	1.16.45.30.2.4.CL.SU.e	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54078.32918	97143.09464	49.8081069	5.80800927	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+328	1.16.45.30.2.4.CL.SU.f	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54080.63753	97136.14174	49.80804366	5.808037697	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+329	1.16.45.30.2.4.CL.SU.g	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54075.32897	97132.47462	49.80801251	5.8079621	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+330	1.16.45.30.2.4.CL.SU.h	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54091.51379	97141.34403	49.80808672	5.808191382	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+331	1.16.45.30.2.4.CL.SU.x	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54079.92551	97125.76088	49.80795065	5.808022414	227	NULL	NULL	Grand Duchy of Luxembourg	CTD x	
+332	1.16.45.30.2.4.CL.SU.i	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54082.05763	97144.45289	49.80811785	5.808061733	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j,r	
+333	1.16.45.30.2.4.CL.SU.l	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54084.27442	97141.17906	49.80808769	5.808090803	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l,a,b,c	
+334	1.16.45.30.2.4.CL.SU.o	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54089.02754	97140.8899	49.80808348	5.808156633	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+335	1.16.45.30.2.4.CL.SU.s	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54081.32	97149.7	49.80816523	5.808054223	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+336	1.16.45.30.2.4.CL.SU.t	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54088.33	97145.75	49.80812738	5.808149544	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+337	1.16.45.30.2.4.CL.SU.u	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54086.99	97136.94	49.80804872	5.808126278	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+338	1.16.45.30.2.4.CL.SU.v	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54074.37	97139.17	49.80807297	5.807952218	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+339	1.16.45.30.2.4.CL.SU.w	"schist - cluster: S_U - forest - downslope - S
+"	3	429	MSL	54075.79	97148.29	49.80815441	5.807976752	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+340	1.16.45.30.2.4.2.CL.SV.z	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53801.05	97140.53	49.80812	5.80416	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+341	1.16.45.30.2.4.2.CL.SV.a	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53800.02548	97146.34037	49.80812359	5.804145283	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+342	1.16.45.30.2.4.2.CL.SV.b	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53799.82127	97141.39036	49.80807919	5.804139878	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+343	1.16.45.30.2.4.2.CL.SV.c	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53808.6937	97134.55808	49.80801482	5.804259492	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+344	1.16.45.30.2.4.2.CL.SV.d	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53810.46778	97138.00651	49.8080452	5.80428591	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+345	1.16.45.30.2.4.2.CL.SV.e	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53803.5903	97140.30775	49.80806819	5.804191635	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+346	1.16.45.30.2.4.2.CL.SV.f	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53796.22444	97141.38088	49.80808032	5.804089943	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+347	1.16.45.30.2.4.2.CL.SV.g	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53794.11551	97145.94782	49.80812206	5.80406304	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+348	1.16.45.30.2.4.2.CL.SV.h	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53804.31595	97153.62899	49.80818762	5.804208627	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+349	1.16.45.30.2.4.2.CL.SV.x	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53789.72115	97145.81273	49.80812232	5.804001969	227	NULL	NULL	Grand Duchy of Luxembourg	CTD x	
+350	1.16.45.30.2.4.2.CL.SV.i	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+351	1.16.45.30.2.4.2.CL.SV.l	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+352	1.16.45.30.2.4.2.CL.SV.o	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+353	1.16.45.30.2.4.2.CL.SV.s	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53798.88342	97140.14797	49.80806835	5.804126214	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+354	1.16.45.30.2.4.2.CL.SV.t	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53807.06041	97146.54041	49.80812302	5.804243043	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+355	1.16.45.30.2.4.2.CL.SV.u	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53806.85	97140.53	49.80806909	5.804237	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+356	1.16.45.30.2.4.2.CL.SV.v	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53806.3	97131.43673	49.80798759	5.804224642	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+357	1.16.45.30.2.4.2.CL.SV.w	"schist - cluster: S_V - forest - downslope - N
+"	3	428	MSL	53796.17548	97133.0239	49.80800526	5.804084923	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+358	1.16.45.30.2.4.2.CL.SW.z	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53803.1	97094.41	49.80771	5.80418	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+359	1.16.45.30.2.4.2.CL.SW.a	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53797.59	97096.98	49.8076814	5.804112964	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+360	1.16.45.30.2.4.2.CL.SW.b	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+361	1.16.45.30.2.4.2.CL.SW.c	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53808.04	97091.56	49.80762919	5.804255164	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+362	1.16.45.30.2.4.2.CL.SW.d	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53811.79	97092.72	49.80763836	5.804307837	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+363	1.16.45.30.2.4.2.CL.SW.e	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+364	1.16.45.30.2.4.2.CL.SW.g	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL					227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+365	1.16.45.30.2.4.2.CL.SW.i	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53802.73	97097.06	49.80768042	5.804184322	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+366	1.16.45.30.2.4.2.CL.SW.l	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53803.53	97089.58	49.80766902	5.804200316	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l,r	
+367	1.16.45.30.2.4.2.CL.SW.o	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53807.27	97093.9	49.80765045	5.804245723	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+368	1.16.45.30.2.4.2.CL.SW.s	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53798.53309	97096.07222	49.80767293	5.80412559	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+369	1.16.45.30.2.4.2.CL.SW.t	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53803.54885	97089.2796	49.80761022	5.804191687	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+370	1.16.45.30.2.4.2.CL.SW.u	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53810.23986	97093.15105	49.80764274	5.804286578	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+371	1.16.45.30.2.4.2.CL.SW.v	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53796.70895	97088.65548	49.80760692	5.804096416	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+372	1.16.45.30.2.4.2.CL.SW.w	"schist - cluster: S_W - forest - midslope - N
+"	3	429	MSL	53803.1	97094.41	49.80765646	5.804188121	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+373	1.16.45.30.7.4.2.CL.MA.z	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65338.55	96917.1	49.80651	5.96444	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+374	1.16.45.30.7.4.2.CL.MA.a	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65333.27	96916.64	49.8063934	5.964439293	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+375	1.16.45.30.7.4.2.CL.MA.b	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65338.94	96912.62	49.80644578	5.9643866	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+376	1.16.45.30.7.4.2.CL.MA.c	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65339.99	96913.15	49.80645497	5.964394615	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+377	1.16.45.30.7.4.2.CL.MA.d	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65341	96912.86	49.80646418	5.964391051	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+378	1.16.45.30.7.4.2.CL.MA.e	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65335.85	96913.88	49.80641755	5.964402466	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+379	1.16.45.30.7.4.2.CL.MA.f	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65340.07	96922.78	49.8064523	5.964528266	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+380	1.16.45.30.7.4.2.CL.MA.g	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65343.83	96920.15	49.80648702	5.964493834	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+381	1.16.45.30.7.4.2.CL.MA.h	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65346.13	96923.46	49.80650651	5.964541087	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+382	1.16.45.30.7.4.2.CL.MA.i	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65336.14	96916.45	49.8064192	5.964438296	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+383	1.16.45.30.7.4.2.CL.MA.l	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65339.93	96915.13	49.80645372	5.964422073	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,n,m,l	
+384	1.16.45.30.7.4.2.CL.MA.o	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65342.37	96920.92	49.80647359	5.964503695	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+385	1.16.45.30.7.4.2.CL.MA.s	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65338.23	96920.79	49.80643645	5.964499583	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+386	1.16.45.30.7.4.2.CL.MA.t	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65335.87	96918.65	49.80641599	5.964468641	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+387	1.16.45.30.7.4.2.CL.MA.u	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65343.09	96918.94	49.80648081	5.964476573	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+388	1.16.45.30.7.4.2.CL.MA.v	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65339.24	96909.23	49.80644965	5.964339753	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+389	1.16.45.30.7.4.2.CL.MA.w	"marls - cluster: M_A - forest - plain
+"	3	351	MSL	65337.54	96911.39	49.80643365	5.964368774	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+390	1.16.45.30.8.CL.MB.z	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65228.73	96402.36	49.80188	5.96294	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+391	1.16.45.30.8.CL.MB.a	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65232.34	96405.97	49.80184133	5.962994478	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+392	1.16.45.30.8.CL.MB.b	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65234.03	96397.06	49.80185975	5.962871764	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+393	1.16.45.30.8.CL.MB.c	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65219.9	96397.26	49.80173269	5.96286683	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+394	1.16.45.30.8.CL.MB.d	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65226.03	96405.58	49.80178482	5.962985622	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+395	1.16.45.30.8.CL.MB.e	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65230.82	96408.09	49.80182692	5.963023147	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+396	1.16.45.30.8.CL.MB.f	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65227	96395.89	49.80179695	5.962851688	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+397	1.16.45.30.8.CL.MB.g	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65225.86	96408.52	49.80178221	5.963026403	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+398	1.16.45.30.8.CL.MB.h	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65230.38	96421.19	49.80181831	5.963204649	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+399	1.16.45.30.8.CL.MB.i	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65230.21	96400.88	49.80182409	5.96292266	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+400	1.16.45.30.8.CL.MB.l	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65227.8	96404.35	49.80180116	5.962969613	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+401	1.16.45.30.8.CL.MB.o	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65223.92	96407.17	49.80176532	5.963006543	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+402	1.16.45.30.8.CL.MB.s	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65232.83	96398.26	49.80184852	5.962887787	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+403	1.16.45.30.8.CL.MB.t	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65220.03	96402.36	49.80173207	5.962937679	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+404	1.16.45.30.8.CL.MB.u	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65226.68	96404.41	49.80179107	5.962969786	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+405	1.16.45.30.8.CL.MB.v	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65223	96406.38	49.80175729	5.962995026	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+406	1.16.45.30.8.CL.MB.w	"marls - cluster: M_B - forest - plain
+"	3	344	MSL	65231.68	96404.42	49.80183597	5.962972727	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+407	1.16.45.30.8.CL.MC.z	"marls - cluster: M_C - grassland - plain - NE
+"	3	350	MSL	65259.19	95110.11	49.79019278	5.963414248	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+408	1.16.45.30.8.CL.MC.i	"marls - cluster: M_C - grassland - plain - NE
+"	3	350	MSL	65259.86	95107.91	49.7901996	5.9633841	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+409	1.16.45.30.8.CL.MC.l	"marls - cluster: M_C - grassland - plain - NE
+"	3	350	MSL	65257.21665	95109.39176	49.79017531	5.9634032	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+410	1.16.45.30.8.CL.MC.o	"marls - cluster: M_C - grassland - plain - NE
+"	3	350	MSL	65254.79	95110.11	49.79015325	5.963411834	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+411	1.16.45.30.8.CL.MC.s	"marls - cluster: M_C - grassland - plain - NE
+"	3	350	MSL	65256.08916	95111.62238	49.79016438	5.963433531	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+412	1.16.45.30.8.CL.MD.z	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65668.42	94800.6	49.78741944	5.969108775	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+413	1.16.45.30.8.CL.MD.e	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65672.03459	94804.21459	49.78745052	5.969164538	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+414	1.16.45.30.8.CL.MD.f	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65668.10624	94800.28624	49.7874179	5.969058848	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+415	1.16.45.30.8.CL.MD.g	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65666.77455	94798.95455	49.78740432	5.969121051	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+416	1.16.45.30.8.CL.MD.h	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65661.18437	94793.36437	49.78735539	5.969068262	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+417	1.16.45.30.8.CL.MD.i	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65669.17244	94801.35244	49.78742694	5.969080508	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	MPS2?
+418	1.16.45.30.8.CL.MD.l	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65667.245	94799.425	49.78740961	5.969079895	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+419	1.16.45.30.8.CL.MD.o	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65671.45087	94803.63087	49.78744579	5.969144492	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	r ?
+420	1.16.45.30.8.CL.MD.s	"marls - cluster: M_D - grassland - plain - SW
+"	3	312	MSL	65671.04829	94803.22829	49.78744349	5.969093216	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+421	1.16.45.30.9.3.CL.ME.z	"marls - cluster: M_E - grassland - midslope - S
+"	3	280	MSL	64821.68	92494.45	49.76666763	5.957436744	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+422	1.16.45.30.9.3.CL.ME.f	"marls - cluster: M_E - grassland - midslope - S
+"	3	280	MSL	64820.97672	92493.74672	49.76666273	5.957381048	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+423	1.16.45.30.9.3.CL.ME.g	"marls - cluster: M_E - grassland - midslope - S
+"	3	280	MSL	64818.06	92490.83	49.76663467	5.957453026	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+424	1.16.45.30.9.3.CL.ME.h	"marls - cluster: M_E - grassland - midslope - S
+"	3	280	MSL	64824.83467	92497.60467	49.76669757	5.95737599	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+425	1.16.45.30.9.3.CL.ME.i	"marls - cluster: M_E - grassland - midslope - S
+"	3	280	MSL	64821.36743	92494.13743	49.76666545	5.95741199	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+426	1.16.45.30.9.3.CL.ME.l	"marls - cluster: M_E - grassland - midslope - S
+"	3	280	MSL	64822.1847	92494.9547	49.76667283	5.957410899	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+427	1.16.45.30.9.3.CL.ME.o	"marls - cluster: M_E - grassland - midslope - S
+"	3	280	MSL	64821.68	92494.45	49.76666658	5.957477654	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+428	1.16.45.30.9.3.CL.ME.s	"marls - cluster: M_E - grassland - midslope - S
+"	3	280	MSL	64824.20795	92496.97795	49.76668958	5.957467543	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+429	1.16.45.30.9.3.CL.MF.z	"marls - cluster: M_F - grassland - plain
+"	3	264	MSL	65555.91	92137.38	49.76379906	5.954928793	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+430	1.16.45.30.9.3.CL.MF.e	"marls - cluster: M_F - grassland - plain
+"	3	264	MSL	65551.60504	92133.07504	49.76375968	5.954954278	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+431	1.16.45.30.9.3.CL.MF.f	"marls - cluster: M_F - grassland - plain
+"	3	264	MSL	65560.71833	92142.18833	49.76384396	5.954864744	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+432	1.16.45.30.9.3.CL.MF.g	"marls - cluster: M_F - grassland - plain
+"	3	264	MSL	65552.19769	92133.66769	49.76376704	5.954875286	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+433	1.16.45.30.9.3.CL.MF.i	"marls - cluster: M_F - grassland - plain
+"	3	264	MSL	65558.21	92139.68	49.76381972	5.95493005	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+434	1.16.45.30.9.3.CL.MF.l	"marls - cluster: M_F - grassland - plain
+"	3	264	MSL	65554.67256	92136.14256	49.76378839	5.954910958	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+435	1.16.45.30.9.3.CL.MF.o	"marls - cluster: M_F - grassland - plain
+"	3	264	MSL	65552.07	92133.54	49.76376449	5.954931351	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+436	1.16.45.30.9.3.CL.MF.s	"marls - cluster: M_F - grassland - plain
+"	3	264	MSL	65560.01	92141.48	49.76383589	5.954931034	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+437	1.16.45.30.6.CL.MG.z	"marls - cluster: M_G - grassland - midslope - N
+"	3	287	MSL	60205.42	90397.13	49.74774	5.89347	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+438	1.16.45.30.6.CL.MG.e	"marls - cluster: M_G - grassland - midslope - N
+"	3	287	MSL	60100.03	90190.38	49.74766234	5.893442569	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+439	1.16.45.30.6.CL.MG.f	"marls - cluster: M_G - grassland - midslope - N
+"	3	287	MSL	60099.07	90196.39	49.74765164	5.893525304	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+440	1.16.45.30.6.CL.MG.g	"marls - cluster: M_G - grassland - midslope - N
+"	3	287	MSL	60098.85	90192.56	49.74765099	5.893472152	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+441	1.16.45.30.6.CL.MG.i	"marls - cluster: M_G - grassland - midslope - N
+"	3	287	MSL	60104.43	90192.51	49.74770112	5.89347441	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+442	1.16.45.30.6.CL.MG.l	"marls - cluster: M_G - grassland - midslope - N
+"	3	287	MSL	60100.16	90191.27	49.74766324	5.893454898	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+443	1.16.45.30.6.CL.MG.o	"marls - cluster: M_G - grassland - midslope - N
+"	3	287	MSL	60099.18	90195.58	49.74765285	5.893514245	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+444	1.16.45.30.6.CL.MG.s	"marls - cluster: M_G - grassland - midslope - N
+"	3	287	MSL	60106.24	90192.44	49.74771738	5.893474436	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+445	1.16.45.30.6.CL.MH.z	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	60063.87	90710.2	49.75055	5.89149	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+446	1.16.45.30.6.CL.MH.e	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	59960.05	90500.72	49.75049213	5.891418779	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+447	1.16.45.30.6.CL.MH.f	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	59956.3	90508.67	49.75045565	5.891526987	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+448	1.16.45.30.6.CL.MH.g	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	59954.32	90507.61	49.75043824	5.891511188	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+449	1.16.45.30.6.CL.MH.h	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	59961.66	90509.94	49.75050336	5.891547417	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+450	1.16.45.30.6.CL.MH.i	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	59961.43	90503.87	49.75050344	5.891463231	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+451	1.16.45.30.6.CL.MH.l	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	59957.7	90504.66	49.75046965	5.891472217	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+452	1.16.45.30.6.CL.MH.o	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	59962.3	90509.42	49.75050932	5.891540559	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o,r	
+453	1.16.45.30.6.CL.MH.s	"marls - cluster: M_H - grassland - plain
+"	3	262	MSL	59958.05	90502.06	49.7504737	5.891436231	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+454	1.16.45.30.6.3.CL.MI.z	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63328.06	90545.22	49.74916	5.93679	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+455	1.16.45.30.6.3.CL.MI.a	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63331.25	90544.06	49.7493585	5.937081568	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+456	1.16.45.30.6.3.CL.MI.b	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63327.89	90535.52	49.7493313	5.936961411	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+457	1.16.45.30.6.3.CL.MI.c	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63323.46	90540.62	49.74928973	5.937029742	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+458	1.16.45.30.6.3.CL.MI.d	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63333.19	90549.53	49.74937398	5.937158445	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+459	1.16.45.30.6.3.CL.MI.e	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63333.68	90547.84	49.74937894	5.937135329	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+460	1.16.45.30.6.3.CL.MI.f	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63322.17	90543.64	49.74927702	5.937070869	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+461	1.16.45.30.6.3.CL.MI.g	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63311.8	90539.3	49.74918546	5.937005102	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+462	1.16.45.30.6.3.CL.MI.h	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63324.78	90563.83	49.74929334	5.937352205	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+463	1.16.45.30.6.3.CL.MI.i	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63330.67	90545.92	49.74935257	5.937107058	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+464	1.16.45.30.6.3.CL.MI.l	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63327.14	90547.76	49.7493202	5.937130626	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+465	1.16.45.30.6.3.CL.MI.o	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63325.27	90551.2	49.74930223	5.937177364	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+466	1.16.45.30.6.3.CL.MI.s	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63329.59	90539.52	49.74934512	5.937017778	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+467	1.16.45.30.6.3.CL.MI.t	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63327.48	90543.62	49.74932473	5.937073493	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+468	1.16.45.30.6.3.CL.MI.u	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63326.88	90538.52	49.74932115	5.937002476	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+469	1.16.45.30.6.3.CL.MI.v	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63322.85	90540.85	49.74928415	5.937032531	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+470	1.16.45.30.6.3.CL.MI.w	"marls - cluster: M_I - forest - upslope - SW
+"	3	298	MSL	63321.26	90545.22	49.74926831	5.937092263	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+471	1.16.45.30.6.3.CL.MJ.z	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63271.23	90595.92	49.74962	5.936	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+472	1.16.45.30.6.3.CL.MJ.a	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63261.35	90577.69	49.74961779	5.935924082	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+473	1.16.45.30.6.3.CL.MJ.b	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63254.02	90580	49.74955112	5.935952103	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+474	1.16.45.30.6.3.CL.MJ.c	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63250.72	90575.01	49.74952326	5.93588114	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+475	1.16.45.30.6.3.CL.MJ.d	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63248.31	90583.35	49.74949865	5.935995423	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+476	1.16.45.30.6.3.CL.MJ.e	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63255.93	90578.42	49.74956883	5.935931265	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+477	1.16.45.30.6.3.CL.MJ.f	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63250.17	90579.62	49.74951664	5.935944746	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+478	1.16.45.30.6.3.CL.MJ.g	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63251.56	90588.63	49.74952598	5.936070422	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+479	1.16.45.30.6.3.CL.MJ.h	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63251.97	90593.2	49.74952805	5.936133995	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+480	1.16.45.30.6.3.CL.MJ.i	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63252.69	90584.96	49.74953747	5.93602008	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+481	1.16.45.30.6.3.CL.MJ.l	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63256.22	90581.43	49.74957035	5.935973164	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+482	1.16.45.30.6.3.CL.MJ.o	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63251.01	90580.83	49.74952375	5.935961899	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+483	1.16.45.30.6.3.CL.MJ.s	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63258.01	90577.46	49.74958786	5.935919047	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+484	1.16.45.30.6.3.CL.MJ.t	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63250.71	90576.6	49.74952259	5.935903079	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+485	1.16.45.30.6.3.CL.MJ.u	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63252.4	90581.8	49.74953592	5.935976172	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+486	1.16.45.30.6.3.CL.MJ.v	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63250.3	90588.48	49.74951474	5.936067657	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+487	1.16.45.30.6.3.CL.MJ.w	"marls - cluster: M_J - forest - plain
+"	3	283	MSL	63260.18	90587.25	49.7496039	5.936055935	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+488	1.16.45.30.6.3.CL.MK.z	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63383.84	90420.95	49.74805	5.93757	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+489	1.16.45.30.6.3.CL.MK.a	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63405.59	90436.44	49.74803153	5.937661161	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+490	1.16.45.30.6.3.CL.MK.b	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63404.55	90423.94	49.74802666	5.937487291	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+491	1.16.45.30.6.3.CL.MK.c	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63406.72	90428.35	49.7480446	5.937549598	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+492	1.16.45.30.6.3.CL.MK.d	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63399.59	90433.82	49.74797861	5.937621643	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+493	1.16.45.30.6.3.CL.MK.e	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63394.27	90430.6	49.74793198	5.937574127	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+494	1.16.45.30.6.3.CL.MK.f	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63404.13	90426.33	49.74802207	5.937520231	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+495	1.16.45.30.6.3.CL.MK.g	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63396.37	90425.77	49.74795251	5.937508264	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+496	1.16.45.30.6.3.CL.MK.h	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63409.41	90429.28	49.74806846	5.937563983	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+497	1.16.45.30.6.3.CL.MK.i	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63397.87	90429.02	49.74796489	5.937554174	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+498	1.16.45.30.6.3.CL.MK.l	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63400.48	90427.49	49.7479888	5.93753434	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+499	1.16.45.30.6.3.CL.MK.o	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63401.77	90437.22	49.74799697	5.937669934	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+500	1.16.45.30.6.3.CL.MK.s	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63392.48	90430.76	49.74791582	5.937575329	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+501	1.16.45.30.6.3.CL.MK.t	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63400.35	90424.38	49.74798876	5.937491172	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+502	1.16.45.30.6.3.CL.MK.u	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63404.29	90428.92	49.74802253	5.937556267	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+503	1.16.45.30.6.3.CL.MK.v	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63396.73	90427.61	49.74795508	5.93753402	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+504	1.16.45.30.6.3.CL.MK.w	"marls - cluster: M_K - forest - plain
+"	3	312	MSL	63396.19	90435.28	49.74794752	5.937640015	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+505	1.16.45.30.9.4.1.CL.SaA.z	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60077.38	86368.18	49.8226	5.80253	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+506	1.16.45.30.9.4.1.CL.SaA.a	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60081.75	86371.84	49.71149185	5.891951459	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+507	1.16.45.30.9.4.1.CL.SaA.b	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60079.09	86361.8	49.71147146	5.891810971	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+508	1.16.45.30.9.4.1.CL.SaA.c	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60071.84	86364.98	49.71140522	5.891851085	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+509	1.16.45.30.9.4.1.CL.SaA.d	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60071.01	86373.34	49.71139486	5.891966458	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+510	1.16.45.30.9.4.1.CL.SaA.e	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60073.94	86368.85	49.71142281	5.89190579	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+511	1.16.45.30.9.4.1.CL.SaA.f	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60079.41	86365.84	49.71147298	5.891867048	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+512	1.16.45.30.9.4.1.CL.SaA.i	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60078.84	86369.4	49.71146655	5.891916068	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j,r	
+513	1.16.45.30.9.4.1.CL.SaA.l	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60075.89	86366.93	49.71144092	5.891880212	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+514	1.16.45.30.9.4.1.CL.SaA.o	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60082.81	86366.83	49.71150318	5.891882506	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+515	1.16.45.30.9.4.1.CL.SaA.s	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60073.43	86370.11	49.71141771	5.891922982	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+516	1.16.45.30.9.4.1.CL.SaA.t	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60077.42	86365.78	49.71145511	5.891865153	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+517	1.16.45.30.9.4.1.CL.SaA.u	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60080.19	86363.11	49.71148092	5.891829601	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+518	1.16.45.30.9.4.1.CL.SaA.v	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60083.61	86363.82	49.71151134	5.891841309	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+519	1.16.45.30.9.4.1.CL.SaA.w	"sandstone - cluster: Sa_A - forest - midslope - S
+"	3	284	MSL	60075.72	86365.8	49.71143978	5.891864577	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+520	1.16.45.30.9.4.1.CL.SaB.z	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60451.27	86548.55	49.71151	5.8919	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+521	1.16.45.30.9.4.1.CL.SaB.a	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60460.01	86545.37	49.71316696	5.897033939	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+522	1.16.45.30.9.4.1.CL.SaB.b	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60449.01	86535.75	49.71307152	5.896894766	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+523	1.16.45.30.9.4.1.CL.SaB.c	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60446.02	86547.81	49.71304046	5.897060305	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+524	1.16.45.30.9.4.1.CL.SaB.d	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60452.23	86551.18	49.71309503	5.897110292	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+525	1.16.45.30.9.4.1.CL.SaB.e	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60454.5	86547.5	49.71311676	5.897060504	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+526	1.16.45.30.9.4.1.CL.SaB.f	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60433.47	86562.96	49.71292247	5.897263458	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+527	1.16.45.30.9.4.1.CL.SaB.i	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60451.02	86546.77	49.71308572	5.897048503	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,k,i,j	
+528	1.16.45.30.9.4.1.CL.SaB.l	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60449.46	86549.4	49.71307077	5.89708407	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l,r	
+529	1.16.45.30.9.4.1.CL.SaB.o	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60456.39	86545.23	49.71313446	5.897030041	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+530	1.16.45.30.9.4.1.CL.SaB.s	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60456.98	86545.89	49.71313956	5.897039499	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+531	1.16.45.30.9.4.1.CL.SaB.t	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60447.41	86550.43	49.71305197	5.897097377	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+532	1.16.45.30.9.4.1.CL.SaB.u	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60451.69	86549.46	49.71309083	5.897086112	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+533	1.16.45.30.9.4.1.CL.SaB.v	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60454.82	86542.87	49.71312122	5.896996516	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+534	1.16.45.30.9.4.1.CL.SaB.w	"sandstone - cluster: Sa_B - forest - valley bottom
+"	3	273	MSL	60454.93	86541.66	49.71312264	5.896979881	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+535	1.16.45.30.9.4.1.CL.SaC.z	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60439.48	86458.97	49.71315	5.89707	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+536	1.16.45.30.9.4.1.CL.SaC.a	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60434.02	86455.82	49.71223375	5.896867821	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+537	1.16.45.30.9.4.1.CL.SaC.b	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60442.87	86472.55	49.71230736	5.897104369	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+538	1.16.45.30.9.4.1.CL.SaC.c	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60444.33	86464.55	49.71232333	5.896994339	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+539	1.16.45.30.9.4.1.CL.SaC.d	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60455.16	86464.99	49.71242046	5.897006167	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+540	1.16.45.30.9.4.1.CL.SaC.e	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60437.28	86458.85	49.71226197	5.896911606	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+541	1.16.45.30.9.4.1.CL.SaC.f	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60429.86	86464.09	49.71219343	5.896980119	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+542	1.16.45.30.9.4.1.CL.SaC.g	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60423.14	86461.27	49.71213409	5.89693745	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+543	1.16.45.30.9.4.1.CL.SaC.i	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60438	86457.77	49.71226881	5.896897022	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+544	1.16.45.30.9.4.1.CL.SaC.l	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60439.52	86456.87	49.71228272	5.896885308	227	NULL	NULL	Grand Duchy of Luxembourg	a,b,c,n,m,l,r	
+545	1.16.45.30.9.4.1.CL.SaC.o	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60445.41	86461.86	49.71233394	5.896957628	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+546	1.16.45.30.9.4.1.CL.SaC.s	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60435.29	86458.75	49.71224406	5.896909088	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+547	1.16.45.30.9.4.1.CL.SaC.t	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60439.35	86466.67	49.71227778	5.897020956	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+548	1.16.45.30.9.4.1.CL.SaC.u	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60443.3	86462.93	49.71231461	5.896971227	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+549	1.16.45.30.9.4.1.CL.SaC.v	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60446.55	86462.27	49.71234402	5.896963822	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+550	1.16.45.30.9.4.1.CL.SaC.w	"sandstone - cluster: Sa_C - forest - midslope - N
+"	3	270	MSL	60442.66	86459.3	49.71231013	5.896920711	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+551	1.16.45.30.9.4.2.CL.SaD.z	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60315.37	85936.81	49.71235	5.89691	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+552	1.16.45.30.9.4.2.CL.SaD.a	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60318.52	85938.93	49.70761067	5.895250842	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+553	1.16.45.30.9.4.2.CL.SaD.b	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60311.71	85932.44	49.70755172	5.895157284	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+554	1.16.45.30.9.4.2.CL.SaD.c	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60312.54	85940.18	49.70755653	5.895264902	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+555	1.16.45.30.9.4.2.CL.SaD.d	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60308.98	85942.56	49.7075237	5.89529602	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+556	1.16.45.30.9.4.2.CL.SaD.e	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60315.44	85940.81	49.70758235	5.895275161	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+557	1.16.45.30.9.4.2.CL.SaD.f	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60319.6	85933.96	49.70762208	5.89518248	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+558	1.16.45.30.9.4.2.CL.SaD.i	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60317.32	85938.03	49.70760021	5.89523765	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	mps2?
+559	1.16.45.30.9.4.2.CL.SaD.l	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60313.22	85935.99	49.70756411	5.89520716	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+560	1.16.45.30.9.4.2.CL.SaD.o	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60319.89	85932.13	49.7076253	5.895157371	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	r?
+561	1.16.45.30.9.4.2.CL.SaD.s	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60310.72	85935.12	49.70754192	5.895193788	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+562	1.16.45.30.9.4.2.CL.SaD.t	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60318.37	85936.81	49.70761006	5.895221328	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+563	1.16.45.30.9.4.2.CL.SaD.u	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60321.12	85932.32	49.70763635	5.895160544	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+564	1.16.45.30.9.4.2.CL.SaD.v	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60310.77	85932.95	49.70754316	5.895163846	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+565	1.16.45.30.9.4.2.CL.SaD.w	"sandstone - cluster: Sa_D - forest - midslope - S
+"	3	252	MSL	60314.64	85943.77	49.70757412	5.895315765	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+566	1.16.45.30.9.4.2.CL.SaE.z	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60318.74	85850.6	49.70764	5.89522	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+567	1.16.45.30.9.4.2.CL.SaE.a	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60316.33	85854.04	49.7067853	5.895317101	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+568	1.16.45.30.9.4.2.CL.SaE.b	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60312.8	85856.54	49.70675272	5.895349833	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+569	1.16.45.30.9.4.2.CL.SaE.c	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60322.01	85848.86	49.70683809	5.895248418	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+570	1.16.45.30.9.4.2.CL.SaE.d	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60326.81	85848.28	49.70688148	5.895242976	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+571	1.16.45.30.9.4.2.CL.SaE.e	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60313.99	85847.27	49.70676662	5.895222114	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+572	1.16.45.30.9.4.2.CL.SaE.f	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60323.22	85853.62	49.70684731	5.895314952	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+573	1.16.45.30.9.4.2.CL.SaE.i	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60316.3	85851.49	49.70678588	5.895281745	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	mps2?
+574	1.16.45.30.9.4.2.CL.SaE.l	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60317.68	85848.33	49.70679944	5.895238784	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+575	1.16.45.30.9.4.2.CL.SaE.o	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60323.87	85854.75	49.70685277	5.895331006	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	r?
+576	1.16.45.30.9.4.2.CL.SaE.s	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60313.64	85850.6	49.70676233	5.895268008	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+577	1.16.45.30.9.4.2.CL.SaE.t	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60319.02	85854.59	49.70680926	5.895326153	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+578	1.16.45.30.9.4.2.CL.SaE.u	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60323.46	85856.03	49.70684868	5.895348525	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+579	1.16.45.30.9.4.2.CL.SaE.v	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60319.33	85843.83	49.70681582	5.895177218	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+580	1.16.45.30.9.4.2.CL.SaE.w	"sandstone - cluster: Sa_E - forest - valley bottom
+"	3	217	MSL	60317.94	85845.56	49.70680273	5.895200534	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+581	1.16.45.30.9.4.2.CL.SaF.z	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60350.89	85735.16	49.70686	5.89526	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+582	1.16.45.30.9.4.2.CL.SaF.a	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60349.5	85727.99	49.7057612	5.895622316	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+583	1.16.45.30.9.4.2.CL.SaF.b	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60348.2	85732.47	49.70574801	5.895683662	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+584	1.16.45.30.9.4.2.CL.SaF.c	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60355.59	85741.88	49.70581113	5.895817869	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+585	1.16.45.30.9.4.2.CL.SaF.d	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60356.43	85740.51	49.70581911	5.895799365	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+586	1.16.45.30.9.4.2.CL.SaF.e	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60352.73	85732.54	49.70578862	5.895686989	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+587	1.16.45.30.9.4.2.CL.SaF.f	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60352.46	85740.64	49.70578343	5.89579905	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+588	1.16.45.30.9.4.2.CL.SaF.i	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60352.89	85734.51	49.70578938	5.895714395	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	mps2?
+589	1.16.45.30.9.4.2.CL.SaF.l	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60349.88	85737.23	49.70576144	5.895750411	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+590	1.16.45.30.9.4.2.CL.SaF.o	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60344.29	85736.32	49.70571154	5.895734905	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	r?
+591	1.16.45.30.9.4.2.CL.SaF.s	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60347.96	85734.54	49.70574507	5.895712109	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+592	1.16.45.30.9.4.2.CL.SaF.t	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60343.62	85735.8	49.70570567	5.895727243	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+593	1.16.45.30.9.4.2.CL.SaF.u	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60355.34	85739.61	49.70580968	5.895786401	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+594	1.16.45.30.9.4.2.CL.SaF.v	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60352.77	85735.42	49.70578803	5.895726985	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+595	1.16.45.30.9.4.2.CL.SaF.w	"sandstone - cluster: Sa_F - forest - midslope - N
+"	3	232	MSL	60353.49	85732.97	49.70579537	5.895693437	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+596	1.16.45.30.9.4.2.CL.SaG.z	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60644.87	85918.9	49.70583	5.89572	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+597	1.16.45.30.9.4.2.CL.SaG.a	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60646.67	85926.69	49.70744581	5.899897587	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+598	1.16.45.30.9.4.2.CL.SaG.b	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60656.56	85924.11	49.70753559	5.899867024	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+599	1.16.45.30.9.4.2.CL.SaG.c	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60638.76	85913	49.70737949	5.89970359	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+600	1.16.45.30.9.4.2.CL.SaG.d	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60640.94	85916.15	49.707398	5.89974841	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+601	1.16.45.30.9.4.2.CL.SaG.e	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60642.55	85923.88	49.70740975	5.899856453	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+602	1.16.45.30.9.4.2.CL.SaG.f	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60646.99	85921.81	49.70745035	5.899830125	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+603	1.16.45.30.9.4.2.CL.SaG.g	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60644.65	85912.5	49.70743258	5.899699934	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+604	1.16.45.30.9.4.2.CL.SaG.i	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60646.35	85917.01	49.70744629	5.899763245	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+605	1.16.45.30.9.4.2.CL.SaG.l	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60642.82	85917.47	49.70741446	5.899767692	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+606	1.16.45.30.9.4.2.CL.SaG.o	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60639.98	85914.18	49.70739007	5.899720602	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+607	1.16.45.30.9.4.2.CL.SaG.s	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60641.79	85918.58	49.70740478	5.899782512	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+608	1.16.45.30.9.4.2.CL.SaG.t	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60640.31	85924.73	49.70738941	5.899866985	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+609	1.16.45.30.9.4.2.CL.SaG.u	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60649.53	85920.97	49.70747349	5.899819877	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+610	1.16.45.30.9.4.2.CL.SaG.v	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60647.72	85916.24	49.70745891	5.899753334	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+611	1.16.45.30.9.4.2.CL.SaG.w	"sandstone - cluster: Sa_G - forest - valley bottom
+"	3	278	MSL	60640.23	85913.93	49.70739243	5.899717281	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+612	1.16.45.30.9.1.CL.SaH.z	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63127.86	85874.16	49.70749	5.89979	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+613	1.16.45.30.9.1.CL.SaH.a	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63129.87	85877.03	49.70711859	5.934254785	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+614	1.16.45.30.9.1.CL.SaH.b	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63129.63	85875.93	49.70711682	5.934239429	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+615	1.16.45.30.9.1.CL.SaH.c	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63135.65	85870.53	49.70717286	5.934167865	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+616	1.16.45.30.9.1.CL.SaH.d	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63122.88	85869.98	49.70705831	5.934153418	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+617	1.16.45.30.9.1.CL.SaH.e	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63125.49	85876.15	49.70707953	5.934240301	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+618	1.16.45.30.9.1.CL.SaH.f	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63131.7	85873.48	49.70713631	5.934206686	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+619	1.16.45.30.9.1.CL.SaH.g	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63124.93	85869.98	49.70707676	5.934154537	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+620	1.16.45.30.9.1.CL.SaH.h	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63148.98	85864.31	49.70729472	5.934089029	227	NULL	NULL	Grand Duchy of Luxembourg	CTD h	
+621	1.16.45.30.9.1.CL.SaH.i	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63128.43	85872.03	49.70710743	5.934184861	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+622	1.16.45.30.9.1.CL.SaH.l	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63125.89	85874.88	49.70708359	5.934222866	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+623	1.16.45.30.9.1.CL.SaH.o	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63123.79	85868.34	49.70706704	5.934131223	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+624	1.16.45.30.9.1.CL.SaH.s	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63130.19	85876.49	49.70712171	5.934247571	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+625	1.16.45.30.9.1.CL.SaH.t	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63132.76	85878.27	49.70714416	5.934273623	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+626	1.16.45.30.9.1.CL.SaH.u	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63131.25	85870.77	49.70713325	5.934168812	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+627	1.16.45.30.9.1.CL.SaH.v	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63125.2	85868.45	49.70707966	5.934133458	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+628	1.16.45.30.9.1.CL.SaH.w	"sandstone - cluster: Sa_H - forest - midslope - S
+"	3	272	MSL	63125.52	85872.81	49.70708104	5.934194021	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+629	1.16.45.30.9.1.CL.SaI.z	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63144.41	86076.61	49.70717	5.93422	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+630	1.16.45.30.9.1.CL.SaI.a	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63138.33	86082.69	49.70886546	5.934515675	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 1	
+631	1.16.45.30.9.1.CL.SaI.b	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63140.78	86078.3	49.70888907	5.934456187	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 2	
+632	1.16.45.30.9.1.CL.SaI.c	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63149.78	86079.71	49.70896937	5.934480583	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 3	
+633	1.16.45.30.9.1.CL.SaI.d	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63151.07	86071.02	49.70898407	5.934360882	227	NULL	NULL	Grand Duchy of Luxembourg	sap flow 4	
+634	1.16.45.30.9.1.CL.SaI.e	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63143.77	86073.58	49.70891751	5.934392384	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+635	1.16.45.30.9.1.CL.SaI.f	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63145.64	86079.24	49.70893231	5.934471805	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+636	1.16.45.30.9.1.CL.SaI.g	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63147.52	86078.79	49.70894942	5.934466611	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+637	1.16.45.30.9.1.CL.SaI.i	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63142.14	86075.55	49.70890225	5.934418873	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+638	1.16.45.30.9.1.CL.SaI.l	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63142.36	86078.66	49.70890309	5.934462028	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+639	1.16.45.30.9.1.CL.SaI.o	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63150.71	86077.72	49.70897845	5.934453542	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+640	1.16.45.30.9.1.CL.SaI.s	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63144.41	86072.51	49.70892367	5.934377943	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+641	1.16.45.30.9.1.CL.SaI.t	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63139.53	86076.18	49.70887853	5.934426175	227	NULL	NULL	Grand Duchy of Luxembourg	tip 2	
+642	1.16.45.30.9.1.CL.SaI.u	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63141.19	86079.31	49.70889238	5.934470388	227	NULL	NULL	Grand Duchy of Luxembourg	tip 3	
+643	1.16.45.30.9.1.CL.SaI.v	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63149.08	86080.53	49.70896282	5.934491578	227	NULL	NULL	Grand Duchy of Luxembourg	tip 4	
+644	1.16.45.30.9.1.CL.SaI.w	"sandstone - cluster: Sa_I - forest - midslope - N
+"	3	268	MSL	63146.38	86069.27	49.70894249	5.934334114	227	NULL	NULL	Grand Duchy of Luxembourg	tip 5	
+645	1.16.45.30.6.3.1.CL.SaJ.z	"sandstone - cluster: Sa_J - grassland - plain
+"	3	298	MSL	63254.61	90583.35	49.70898	5.93443	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+646	1.16.45.30.6.3.1.CL.SaJ.e	"sandstone - cluster: Sa_J - grassland - plain
+"	3	298	MSL	63253.85	90579.02	49.70888669	5.934402359	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+647	1.16.45.30.6.3.1.CL.SaJ.f	"sandstone - cluster: Sa_J - grassland - plain
+"	3	298	MSL	63250.07	90584.57	49.70884548	5.93441675	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+648	1.16.45.30.6.3.1.CL.SaJ.g	"sandstone - cluster: Sa_J - grassland - plain
+"	3	298	MSL	63254.31	90579.96	49.70884402	5.934369674	227	NULL	NULL	Grand Duchy of Luxembourg	CTD g 	
+649	1.16.45.30.6.3.1.CL.SaJ.i	"sandstone - cluster: Sa_J - grassland - plain
+"	3	298	MSL	63253.46	90581.36	49.70892366	5.934403267	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+650	1.16.45.30.6.3.1.CL.SaJ.l	"sandstone - cluster: Sa_J - grassland - plain
+"	3	298	MSL	63256.37	90584.83	49.70893897	5.934424699	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+651	1.16.45.30.6.3.1.CL.SaJ.o	"sandstone - cluster: Sa_J - grassland - plain
+"	3	298	MSL	63249.5	90586.3	49.70889203	5.934462794	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+652	1.16.45.30.6.3.1.CL.SaJ.s	"sandstone - cluster: Sa_J - grassland - plain
+"	3	298	MSL	63254.27	90579.46	49.70884233	5.934315674	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+653	1.16.45.30.9.1.CL.SaK.z	"sandstone - cluster: Sa_K - grassland - plain
+"	3	309	MSL	63400.25	90430.08	49.7495	5.93578	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+654	1.16.45.30.9.1.CL.SaK.e	"sandstone - cluster: Sa_K - grassland - plain
+"	3	309	MSL	63396.78	90434.22	49.74941568	5.935805777	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+655	1.16.45.30.9.1.CL.SaK.f	"sandstone - cluster: Sa_K - grassland - plain
+"	3	309	MSL	63402.49	90426.89	49.7494369	5.935762703	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+656	1.16.45.30.9.1.CL.SaK.i	"sandstone - cluster: Sa_K - grassland - plain
+"	3	309	MSL	63398.91	90428.74	49.74944163	5.93576213	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+657	1.16.45.30.9.1.CL.SaK.l	"sandstone - cluster: Sa_K - grassland - plain
+"	3	309	MSL	63398.2	90431.51	49.74942273	5.935780897	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+658	1.16.45.30.9.1.CL.SaK.o	"sandstone - cluster: Sa_K - grassland - plain
+"	3	309	MSL	63403.01	90427.77	49.74944831	5.935750314	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+659	1.16.45.30.9.1.CL.SaK.s	"sandstone - cluster: Sa_K - grassland - plain
+"	3	309	MSL	63398.13	90427.05	49.7494189	5.935719534	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+660	1.16.45.30.9.1.CL.SaL.z	"sandstone - cluster: Sa_L - grassland - plain
+"	3	300	MSL	65519.5	87791.03	49.72446	5.9673	227	NULL	NULL	Grand Duchy of Luxembourg	mast	
+661	1.16.45.30.9.1.CL.SaL.e	"sandstone - cluster: Sa_L - grassland - plain
+"	3	300	MSL	65418.18	87581.65	49.7244135	5.967238607	227	NULL	NULL	Grand Duchy of Luxembourg	CTD e	
+662	1.16.45.30.9.1.CL.SaL.f	"sandstone - cluster: Sa_L - grassland - plain
+"	3	300	MSL	65415.6	87584.72	49.72438931	5.967279654	227	NULL	NULL	Grand Duchy of Luxembourg	CTD f	
+663	1.16.45.30.9.1.CL.SaL.i	"sandstone - cluster: Sa_L - grassland - plain
+"	3	300	MSL	65416.16	87583.86	49.72439462	5.967268042	227	NULL	NULL	Grand Duchy of Luxembourg	k,i,j	
+664	1.16.45.30.9.1.CL.SaL.l	"sandstone - cluster: Sa_L - grassland - plain
+"	3	300	MSL	65418.48	87583.24	49.72441566	5.967260705	227	NULL	NULL	Grand Duchy of Luxembourg	n,m,l	
+665	1.16.45.30.9.1.CL.SaL.o	"sandstone - cluster: Sa_L - grassland - plain
+"	3	300	MSL	65414.33	87584.35	49.72437796	5.96727385	227	NULL	NULL	Grand Duchy of Luxembourg	q,p,o	
+666	1.16.45.30.9.1.CL.SaL.s	"sandstone - cluster: Sa_L - grassland - plain
+"	3	300	MSL	65414.67	87588.2	49.7243797	5.967327325	227	NULL	NULL	Grand Duchy of Luxembourg	tip 1	
+						577									

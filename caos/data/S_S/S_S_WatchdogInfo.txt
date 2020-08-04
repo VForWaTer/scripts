@@ -1,0 +1,50 @@
+
+
+8 1 2014 14:18:08
+Watchdog timer PAKBUS COMMS triggered.
+
+Slot      Task Name Pri     Status
+ 12      SocketTask 200    waiting at mailbox 23 [Timeout=18], PC-> 13E88C 
+ 10  PeriphBusEvent 200    waiting at mailbox 22, PC-> 0D75D2 
+ 13        CommTask 200    waiting at mailbox 19 [Timeout=3790], PC-> 05E6F0 
+  6        CommTask 200    waiting at mailbox 15 [Timeout=176018], PC-> 05E6F0 
+  5        CommTask 200    waiting at mailbox 14, PC-> 05E6F0 
+  3        Terminal 200    waiting at mailbox 11, PC-> 076B96 
+  8    PakBusServer 200    waiting at mailbox 2, PC-> 05C964 
+ 11         Display 200    waiting for event 45 set, PC-> 0DC79E 
+  9       VoiceTask 200    waiting for event 43 set, PC-> 074D96 
+ 16       SlowProcX 200    waiting for event 26 set, PC-> 08B458 
+ 18       SlowProcX 217    waiting for event 8 set, PC-> 08C166 
+ 14   BkgndSlowMeas 218    waiting for event 6 set, PC-> 09437C 
+ 15          RunDld 200    in run queue, PC(qproc)-> 10FC3E , PC-> 2C005B 
+  4      PakBusMain 200    in run queue, PC(qproc)-> 10F624 , PC-> 260000 
+  7      NicheStack 200    in run queue, PC(qproc)-> 110798 , PC-> 000004 
+ 17       SlowProcX 218    in run queue, PC(qproc)-> 109FB2  **TIMED OUT**, PC-> 04005C 
+  1        Watchdog 220 => in run queue, PC(qproc)-> 10A432 
+ChkMem results:
+COLOR0: ok
+fragments: 11, total_free: 15552
+largest free: 4636, alloc blocks: 1511
+COLOR2: ok
+fragments: 1, total_free: 4868
+largest free: 4868, alloc blocks: 3
+Slot 1, Stack base 005FCBD4, pointer 005FD1A8, See current sp Min 932
+Slot 3, Stack base 005EAF20, pointer 005EB4CA, remaining 1450, Min 1256
+Slot 4, Stack base 005EA718, pointer 005EAE1A, remaining 1794, Min 920
+Slot 5, Stack base 005E9F10, pointer 005EA67A, remaining 1898, Min 1472
+Slot 6, Stack base 005E9708, pointer 005E9E72, remaining 1898, Min 1276
+Slot 7, Stack base 005E8990, pointer 005E9532, remaining 2978, Min 1344
+Slot 8, Stack base 005E7D88, pointer 005E8926, remaining 2974, Min 2924
+Slot 9, Stack base 005E7180, pointer 005E7D36, remaining 2998, Min 2996
+Slot 10, Stack base 005E6578, pointer 005E7116, remaining 2974, Min 2972
+Slot 11, Stack base 005E5970, pointer 005E64D2, remaining 2914, Min 2880
+Slot 12, Stack base 005C7150, pointer 005C7CF2, remaining 2978, Min 2340
+Slot 13, Stack base 005C09C0, pointer 005C112A, remaining 1898, Min 1720
+Slot 14, Stack base 005B6A90, pointer 005B6E4A, remaining 954, Min 596
+Slot 15, Stack base 005B5E88, pointer 005B69D2, remaining 2890, Min 2312
+Resources owned:  24
+Slot 16, Stack base 005B5A80, pointer 005B5DDA, remaining 858, Min 548
+Slot 17, Stack base 005C47D4, pointer 005C5256, remaining 2690, Min 2080
+Resources owned:  29
+Slot 18, Stack base 005C3BCC, pointer 005C4732, remaining 2918, Min 2280
+Comms Mem: [0]= 15251405, [1]= 309, [2]= 3250.
