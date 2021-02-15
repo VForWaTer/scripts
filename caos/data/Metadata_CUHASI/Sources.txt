@@ -1,2 +1,0 @@
-SourceID	Organization	SourceDescription	SourceLink	ContactName	Phone	Email	Address	City	State	ZipCode	Citation	MetadataID
-5	German Research Centre For Geosciences GFZ 	Sektion 5.4 - Hydrology	http://www.gfz-potsdam.de/en/home/	Theresa Blume and Sibylle Hassler	+49 331 288-28769	sibylle.hassler@gfz-potsdam.de	Telegrafenberg	Potsdam	Germany	14473	Data collected by GFZ as part of the CAOS project	4
