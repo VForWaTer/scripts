@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 
 # ignore the data files
-caos/data 
+caos/data
+lubw_gauge/data
+buehlot/data
