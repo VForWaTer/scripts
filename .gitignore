@@ -131,3 +131,4 @@ dmypy.json
 # ignore the data files
 caos/data
 lubw_gauge/data
+buehlot/data
