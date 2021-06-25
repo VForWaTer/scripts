@@ -1,3 +1,4 @@
 metacatalog
 numpy
 pandas
+xlrd
