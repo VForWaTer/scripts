@@ -128,6 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# MacOS .DS_Store
+.DS_Store
+
 # ignore the data files
 caos/data
 lubw_gauge/data
+buehlot/data
+eddy/data
