@@ -1,0 +1,28 @@
+Python Skripte zum Zusammenfügen der Daten auf GitHub:
+https://github.com/bB0u/HiWi-Buehl
+
+Kurze Übersicht zu den Daten:
+
+1.Kippwaagen HoBo:
+	- Niederschalg und Temperatur
+	- Einmal kippen entspricht 0.2 mm Niederschlag
+	- Probleme:	
+		- Viele Datenlücken
+		- Kein Niederschlag aufgezeichnet obwohl vmtl. welcher gefallen ist 
+		- Datetimeformat wechselt teilweise innerhalb einer .csv Datei
+		- 1 mm statt 0.2 mm pro Kippevent gespeichert
+			-> wurde mit 0.2 multipliziert wenn nur Integer gespeichert wurden
+	- Pro Logger wurden zwei .csv Dateien angelegt, einmal fpr Niederschlag und einnmal für Temperatur
+	- Daten wurden noch nicht plausibilisiert
+ 
+
+
+2. Bodenfeuchte Campbell
+offen
+
+
+3. Pegel OTT
+offen
+
+4. Pegel TruTrack
+offen

@@ -1,0 +1,27 @@
+ID_V4W,area,elevation,measuring_device,author_id,variable_id,location,license_id,title,external_id,comment
+A_1,30.18,141.58,Drucksonde Endress und Hauser Waterpilot FMX 165,3,4,SRID=4326;POINT (29.598817 28.380061),6,Bühlot dataset: Altschweier / Bühlot Lubw,28.19.00_00_01,Data 2013-2019 NaN free
+A_2,12.79,294.0,Radarpegel Endress und Hauser Micropilot FMR 230V,11,4,SRID=4326;POINT (29.630629 28.363901),6,Bühlot dataset: Bühlertal Kindergarten / Bühlot,28.13.00_00_01,Data 2013-2019 / 32% of NaN = 19914 NaN / HZV (ZV Hochwasserschutz)
+A_3,0.12,964.0,OTT CTD,19,18,SRID=4326;POINT (29.646054 28.328567),6,Bühlot dataset: Schwabenbrünnele / Kit,28.11.03.01_00_01,Data 2013-2019 / 30% of NaN = 18459 NaN / Trasform to Discharge
+A_4_1,nn,916.0,nn,20,10009,SRID=4326;POINT (29.665335 28.241237),6,Bühlot dataset: Baiersbronn-Ruhestein,,Data 2013-2019 / 0.2% of NaN = 134 NaN
+A_5_1,nn,162.0,nn,14,10009,SRID=4326;POINT (29.588925 28.345989),6,Bühlot dataset: Buehl_Agramet,,Data 2013-2019 / 2.4% of NaN = 1514 NaN
+A_6,nn,379.5,Davis Tipping Bucket Rain Collektor,19,10009,SRID=4326;POINT (29.636368 28.374277),6,Bühlot dataset: Butschenberg,28.14.04_00_01,Data 2013-2019 / 25% of NaN = 15090 NaN
+A_7,nn,133.5,nn,11,10009,SRID=4326;POINT (29.580465 28.398432),6,Bühlot dataset: P_Hrb20,,Data with 38% of NaN = 23552 NaN
+A_8,nn,303.0,Thies-Clima 5.4032.45.008 mit Heizung,11,10009,SRID=4326;POINT (29.630471 28.363873),6,Bühlot dataset: Bühlertal-Kindergarten,28.11.00_00_02,Data 2013-(Jul)2015 / 38% of NaN = 23444 NaN
+A_9,nn,210.0,nn,14,10009,SRID=4326;POINT (29.611603 28.404756),6,Bühlot dataset: Neuweier_Agramet,,Data 2013-2019 / 0.02% of NaN = 18 NaN
+A_10,27.88,183.0,nn,11,10009,SRID=4326;POINT (29.613101 28.381871),6,Bühlot dataset: Altschweier Ortseingang / Bühlot,28.19.00_00_03,Data 2013-2019 / 38% of NaN = 23631 NaN / HZV (ZV Hochwasserschutz)
+A_11_1,nn,474.0,nn,19,10009,SRID=4326;POINT (29.630132 28.347483),6,Bühlot dataset: Schafhof,28.13.01_01_01,Data 2013-2019 / 21% of NaN = 13047 NaN
+A_12,nn,646.5,Davis Tipping Bucket Rain Collektor,19,10009,SRID=4326;POINT (29.627973 28.337095),6,Bühlot dataset: Schönbrunn,28.00.00_00_01,Data 2013-2019 / 34% of NaN = 20971 NaN
+A_13_1,nn,964.0,Davis Tipping Bucket Rain Collektor,19,10009,SRID=4326;POINT (29.646054 28.328567),6,Bühlot dataset: Schwabenbrünnele,28.11.03.01_00_02,Data 2013-2019 / 64% of NaN = 39307 NaN
+A_14,nn,326.0,Davis Tipping Bucket Rain Collektor,19,10009,SRID=4326;POINT (29.613377 28.372382),6,Bühlot dataset: Sportplatz,28.15.01_00_01,Data 2013-2019 / 12% of NaN = 7596 NaN
+A_15,nn,695.0,Thies-Clima 5.4032.45.008 mit Heizung,11,10009,SRID=4326;POINT (29.648621 28.348543),6,Bühlot dataset: Wiedenfelsen,28.12.00_00_01,Data 2013-(Jul)2015 / 38% of NaN = 23700 NaN
+A_16,nn,392.5,Davis Tipping Bucket Rain Collektor,19,10009,SRID=4326;POINT (29.626737 28.397488),6,Bühlot dataset: Wintereck,28.16.01_00_01,Data 2013-2019 / 18% of NaN = 11376 NaN
+A_5_2,nn,162.0,nn,14,1,SRID=4326;POINT (29.588925 28.345989),6,Bühlot dataset: Buehl_Agramet,,Data 2013-2019 NaN free
+A_13_2,nn,964.0,HOBO Pendant® Event Data Logger - UA-003-64,19,1,SRID=4326;POINT (29.646054 28.328567),6,Bühlot dataset: Schwabenbrünnele Kit,28.11.03.01_00_02,Data 2013-2019 NaN free
+A_5_3,nn,162.0,nn,14,6,SRID=4326;POINT (29.588925 28.345989),6,Bühlot dataset: Buehl_Agramet,,Data 2013-2019 NaN free
+A_5_4,nn,162.0,nn,14,9,SRID=4326;POINT (29.588925 28.345989),6,Bühlot dataset: Buehl_Agramet,,Data 2013-2019 NaN free
+A_17,nn,125.0,nn,14,10010,SRID=4326;POINT (29.522288 28.372085),6,Bühlot dataset: Lichtenau_Agramet,,"Data 2013-2019 NaN free / there were 224 NaNs, longest period 25.12.2018 18:00 - 31.12.2018 23:00 --> filled with series mean to make NaN-free"
+A_4_2,nn,916.0,nn,20,10012,SRID=4326;POINT (29.665456 28.241429),6,Bühlot dataset: Baiersbronn_Ruhestein,,Data 2013-2019 NaN free
+A_5_5,nn,162.0,nn,14,19,SRID=4326;POINT (29.588925 28.345989),6,Bühlot dataset: Buehl_Agramet,,Data 2013-2019 NaN free / daily sums
+A_11_2,nn,474.0,IMKO Trime-Pico IPH3,19,12,SRID=4326;POINT (29.630132 28.347483),6,Bühlot dataset: Schafhof,28.13.01_01.01_03,"Measurement downslope, 50 cm below ground surface / Data 2013-2019 / 39% of NaN = 24150 NaN"
+A_18,nn,696.0,TruTrack WT-HR 1500,19,10011,SRID=4326;POINT (29.640084 28.340189),6,Bühlot dataset: Sprengquellen Oben Nord,28.11.04_01_01,Data 2013-2019 / 40% of NaN = 24976 NaN
+A_11_3,nn,474.0,TruTrack WT-HR 1500,19,10011,SRID=4326;POINT (29.630132 28.347483),6,Bühlot dataset: Schafhof,28.13.01_01.05_04,Measurement downslope / Data 5015 only

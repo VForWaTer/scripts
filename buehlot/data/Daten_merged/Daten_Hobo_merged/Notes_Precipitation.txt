@@ -1,0 +1,27 @@
+Notes regarding precipitation data:
+
+- Schönbrunn logged only daily instead of 5 min interval from 27/11/20 till 02/03/21 
+ 	-> those values were completely diregarded (temperature logged fine)
+
+- At Hundseck, the magnetic contact broke several times
+ hence there are large periods with precipitation logged as 0 by mistake
+
+-Sometimes one csv file from hobo has two different datetime formats, 
+ that was manually delt with
+ The files with this abnomality always also have only zeros in the precipitaion column
+ Also temperature was then logged not on full minutes but e.g. 10:00:22 and so on 
+
+- Often logger stored a tipping event as 1 and not 0.2 mm of precipitation,
+ during import, if 1mm was the most frequent value, the precipitation data was 
+ mulitiplied by 0.2 (and file was manually checked if that was justified)
+
+
+Exception: Probably no Sternenberg file in the folder or some issues with header
+Exception: Probably no Winterberg file in the folder or some issues with header
+Exception: Probably no Sportplatz file in the folder or some issues with header
+Exception: Probably no Schönbrunn file in the folder or some issues with header
+Precipitation data multiplied by 0.2 in case of Schwabenquelle
+Precipitation data multiplied by 0.2 in case of Hundseck
+Exception: Probably no Grundigklinik file in the folder or some issues with header
+Exception: Probably no Schafhof file in the folder or some issues with header
+Exception: Probably no Butschenberg file in the folder or some issues with header
