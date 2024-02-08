@@ -1,4 +1,4 @@
-tstamp,logger temperature [°C]
+tstamp,logger_temperature
 2015-03-05 13:50:39,2.9
 2015-03-05 13:55:39,2.9
 2015-03-05 14:00:39,2.9
